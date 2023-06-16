@@ -402,7 +402,7 @@ h3 .text:before {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 5rem;
+    padding: 3rem 2rem;
 }
 
 .exp-card-item ul li {
